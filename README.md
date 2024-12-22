@@ -1,7 +1,7 @@
 # Proyecto: Resolución Automática de Encuestas en MAIPI
 
 Este proyecto automatiza la resolución de encuestas en la plataforma MAIPI de la Universidad Nacional Agraria La Molina utilizando Selenium.
-![Image](img\img_1.png)
+![Image](\img\img_1.png)
 ## Requisitos Previos
 
 1. **Python 3.x**: Asegúrate de tener instalado Python en tu sistema.
