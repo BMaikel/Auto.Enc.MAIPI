@@ -2,7 +2,7 @@
 
 Este proyecto automatiza la resolución de encuestas en la plataforma MAIPI de la Universidad Nacional Agraria La Molina utilizando Selenium.
 
-![img\img_1.png](img\img_1.png)
+![image](https://github.com/user-attachments/assets/8037a594-ef00-4e80-b76c-12fc2a6f66d6)
 
 ## Requisitos Previos
 
